@@ -33,7 +33,6 @@ public class Application {
     static final int COLS = 2;
     static final int WIDTH = 850;
     static final int HEIGHT = 300;
-    static final int asd = 1;
 
     /**
      * Main method to run the GUI.
